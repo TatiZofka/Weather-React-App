@@ -1,1 +1,9 @@
+.App {
+    text-align: center;
+    color:white;
+}
 
+.App a {
+    text-decoration: none;
+    color: #29a19c;
+}

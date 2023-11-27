@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import App from "./App"
 import reportWebVitals from './reportWebVitals';
 
 import City from "./City";
@@ -19,6 +20,8 @@ root.render(
     <Forecast />
     <br />
     <SearchForm />
+    <br />
+    <App />
     </div>
   </React.StrictMode>
 );
