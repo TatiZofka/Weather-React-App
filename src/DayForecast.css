@@ -1,0 +1,16 @@
+.DayForecast {
+    margin: 0 auto;
+    padding: 10px 3px 10px 3px;
+    text-align: center;
+  }
+  
+  .DayForecast i {
+    color: #29a19c;
+    font-size: 40px;
+    padding: 10px;
+  }
+  
+  .DayForecast .ForecastTempMax {
+    color: #a3f7bf;
+    margin-right: 5px;
+  }

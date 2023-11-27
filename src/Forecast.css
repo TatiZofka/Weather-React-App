@@ -1,0 +1,8 @@
+.Forecast {
+    background-color: #222831;
+    color: white;
+    border-radius: 40px;
+    padding: 10px 40px;
+    max-width: 800px;
+    margin: 0 auto;
+  }

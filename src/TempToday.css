@@ -1,0 +1,42 @@
+.TempToday {
+    margin: 3% 0 0 3%;
+    padding: 0;
+  }
+  
+  .TempToday h1 {
+    width: max-content;
+    margin: 0 auto;
+  }
+  
+  .TempToday .temp-value,
+  .current-units {
+    font-size: 60px;
+  }
+  
+  .TempToday .current-units {
+    color: #a3f7bf;
+    text-decoration: none;
+    cursor: default;
+  }
+  
+  .TempToday .separator,
+  .different-units {
+    text-decoration: none;
+    vertical-align: top;
+    font-size: 20px;
+    color: #29a19c;
+  }
+  
+  .TempToday h6 {
+    text-align: center;
+    margin: 3% 0 0 3%;
+  }
+  
+  .TempToday h6 i {
+    color: #29a19c;
+  }
+  
+  .TempToday .temp-min,
+  .temp-max {
+    padding: 0 8% 0 1%;
+  }

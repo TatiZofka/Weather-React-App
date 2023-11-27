@@ -1,13 +1,25 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+import City from "./City";
+import WeatherToday from "./WeatherToday";
+import Forecast from "./Forecast";
+import SearchForm from "./SearchForm";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <div className="App">
+    <City />
+    <br />
+    <WeatherToday />
+    <br />
+    <Forecast />
+    <br />
+    <SearchForm />
+    </div>
   </React.StrictMode>
 );
 

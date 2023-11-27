@@ -1,0 +1,14 @@
+.Conditions {
+    font-size: 18px;
+    margin-top: 10%;
+    padding: 0;
+    text-align: left;
+  }
+  
+  .Conditions li {
+    list-style: none;
+  }
+  
+  .Conditions #description {
+    color: #a3f7bf;
+  }
