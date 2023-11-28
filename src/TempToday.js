@@ -13,13 +13,13 @@ export default function TempToday() {
       <h1>
         <span className="temp-value">{tempData.valueToday}</span>
         <span>
-          <a href="" className="current-units">
+          <a href="/" className="current-units" rel="noreferrer">
             °C
           </a>
         </span>
         <span className="separator">|</span>
         <span>
-          <a href="" className="different-units">
+          <a href="/" className="different-units" rel="noreferrer">
             F
           </a>
         </span>
